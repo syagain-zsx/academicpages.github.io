@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "屏幕截图 2025-07-04 222819(1)(1).png"
+  avatar           : "assets/wps (1).png"
   name             : "章诗鑫"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "1376508112@qq.com" 
 
   # Academic websites
   academia         : # URL
